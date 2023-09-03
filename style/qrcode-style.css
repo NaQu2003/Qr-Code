@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(207, 206, 206);
+    margin:0px;
+    padding:0px;
+}
+
+.container{
+    background-color:white;
+    max-width:240px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    border-radius:20px;
+    
+    
+
+}
+.qr-code-image-box img{
+    width:100%;
+    border-radius:10px;
+}
+.text-box{
+    text-align: center;
+    
+}
+.qr-code-title{
+    font-size:18px;
+    font-weight:bold;
+    line-height: 1.2;
+}
+.qr-info{
+    
+    font-size:14px;
+    color:gray;
+}
+
+.centering{
+    height:100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+  
+}
